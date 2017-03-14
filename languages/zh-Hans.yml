@@ -15,7 +15,7 @@ menu:
   search: 搜索
   schedule: 日程表
   sitemap: 站点地图
-  commonweal: 404
+  commonweal: 公益404
 
 sidebar:
   overview: 站点概览
@@ -66,6 +66,16 @@ state:
 
 search:
   placeholder: 搜索...
+
+cheers:
+  um: 嗯..
+  ok: OK
+  nice: 好
+  good: 很好
+  great: 非常好
+  excellent: 太棒了
+
+keep_on: 继续努力。
 
 symbol:
   comma: '， '
